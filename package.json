@@ -1,0 +1,26 @@
+{
+  "name": "mark34",
+  "version": "1.0.0",
+  "description": "CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseDYZ/mark34.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseDYZ/mark34/issues"
+  },
+  "homepage": "https://github.com/joseDYZ/mark34#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "ejf": "^0.2.9",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.4",
+    "morgan": "^1.10.0"
+  }
+}
